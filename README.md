@@ -1,4 +1,4 @@
-# Script-Kali: Entorno BSPWM para Kali Linux  
+# Auto-Kali: Entorno BSPWM para Kali Linux  
 
 ## Instalación Automatizada  
 primero actualice su kali con `sudo apt update` y luego   `sudo apt upgrade -y` luego pegue este script:
