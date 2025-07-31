@@ -14,7 +14,7 @@ primero actualice su kali con `sudo apt update` y luego   `sudo apt upgrade -y` 
 
  cd Auto-Kali
 
- unzip Auto-Kali.zip
+ 7z x Auto-Kali.zip
   
  chmod +x install.sh  
 
